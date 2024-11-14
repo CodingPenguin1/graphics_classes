@@ -1,0 +1,2 @@
+shadowmap: main.c
+	gcc -lglut -lGLU -lGL -lm -o shadowmap main.c

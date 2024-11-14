@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "tuple": "cpp",
+        "cmath": "cpp",
+        "new": "cpp"
+    }
+}
